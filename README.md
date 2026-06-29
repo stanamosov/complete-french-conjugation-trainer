@@ -146,11 +146,11 @@ The timeline helps show whether a tense belongs mainly to the past, present, or 
 
 ### Front of the card
 
-<img src="screenshots/french-conjugation-card-front.png" alt="Front of a French conjugation card" width="420">
+<img src="screenshots/french-conjugation-card-front-v002.png" alt="Front of a French conjugation card" width="420">
 
 ### Back of the card
 
-<img src="screenshots/french-conjugation-card-back.png" alt="Back of a French conjugation card" width="420">
+<img src="screenshots/french-conjugation-card-back-v002.png" alt="Back of a French conjugation card" width="420">
 
 ---
 
