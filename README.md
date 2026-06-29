@@ -4,9 +4,9 @@
 
 It is designed as a real conjugation trainer, not just a reference list. The deck helps learners practise French verb forms through typed answers, tense recognition, example sentences, audio, grammar notes, and visual tense cues.
 
-**Current version:** v0.0.2
-**Deck size:** 92 verbs, 7,000+ active-recall cards
-**Format:** split into 2 AnkiWeb parts because AnkiWeb shared decks are limited to 250 MB
+**Current version:** v0.0.2. 
+**Deck size:** 92 verbs, 7,000+ active-recall cards 
+**Format:** split into 2 AnkiWeb parts because AnkiWeb shared decks are limited to 250 MB. 
 
 ---
 
@@ -139,6 +139,18 @@ Each tense is visually marked with:
 * a small timeline indicator
 
 The timeline helps show whether a tense belongs mainly to the past, present, or future. These visual cues make it easier to recognize tense families, compare similar forms, and build stronger long-term recall.
+
+---
+
+## Screenshots
+
+### Front of the card
+
+<img src="screenshots/french-conjugation-card-front.png" alt="Front of a French conjugation card" width="420">
+
+### Back of the card
+
+<img src="screenshots/french-conjugation-card-back.png" alt="Back of a French conjugation card" width="420">
 
 ---
 
