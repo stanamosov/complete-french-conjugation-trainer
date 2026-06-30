@@ -4,9 +4,9 @@
 
 It is designed as a real conjugation trainer, not just a reference list. The deck helps learners practise French verb forms through typed answers, tense recognition, example sentences, audio, grammar notes, and visual tense cues.
 
-**Current version:** v0.0.2. 
-**Deck size:** 92 verbs, 7,000+ active-recall cards 
-**Format:** split into 2 AnkiWeb parts because AnkiWeb shared decks are limited to 250 MB. 
+**Current version:** v0.0.2.   
+**Deck size:** 92 verbs, 7,000+ active-recall cards   
+**Format:** split into 2 AnkiWeb parts because AnkiWeb shared decks are limited to 250 MB.   
 
 ---
 
@@ -18,6 +18,12 @@ Please download both parts of the same version for the complete trainer.
 * **[Part 2](https://ankiweb.net/shared/info/1882803111)**
 
 Part 1 and Part 2 are separate AnkiWeb downloads, but together they form one complete French conjugation trainer.
+
+---
+
+## Documentation
+
+- [Guide d’utilisation en français](docs/guide-utilisation-fr.md)
 
 ---
 
@@ -98,7 +104,9 @@ This deck currently includes 92 French verbs selected to cover the most importan
 
 Included verbs:
 
+```
 demander, finir, pouvoir, faire, mettre, devoir, prendre, aller, vouloir, savoir, voir, tenir, suivre, connaître, croire, commencer, partir, servir, recevoir, vivre, perdre, ouvrir, créer, écrire, valoir, conduire, craindre, envoyer, payer, répéter, acheter, naître, mourir, résoudre, plaire, conclure, étudier, acquérir, accueillir, rire, jeter, manger, s'asseoir, courir, dormir, se taire, boire, fuir, rompre, croître, promouvoir, extraire, vaincre, haïr, pleuvoir, bouillir, coudre, être, avoir, aimer, répondre, dire, venir, choisir, travailler, falloir, comprendre, s'appeler, réussir, donner, jouer, attendre, oublier, se souvenir, expliquer, lire, sentir, se lever, se promener, traduire, se réunir, se diriger, s'habiller, s'essuyer, se réveiller, arriver, sortir, apprendre, devenir, laisser, montrer, rendre.
+```
 
 ---
 
